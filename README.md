@@ -1,2 +1,3 @@
-# sistem-idpb
-## tete de git, se isso aparecer no gerenciador de arquivos da hostgator entao git conectado
+# SISTEMA DE GERENCIAMENTO DA IDPB FILADELFIA 
+## NESTE DIRETORIO ESTÃO CONTIDOS OS ARQUIVOS DO LARAVEL E O .CPANEL.YML 
+### JAMAIS APAGAR O ARQUIVO .CPANEL.YML SOB HIPOTESE ALGUMA
